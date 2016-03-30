@@ -1,0 +1,9 @@
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Matej\Documents\AkademiaSovy20152016\1. Programovanie\Visual Studio\C#\Quiz\Quiz\obj\Debug\Quiz.pdb
